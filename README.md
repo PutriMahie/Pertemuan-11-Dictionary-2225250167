@@ -28,8 +28,8 @@ python3 praktik/data_mahasiswa.py
 
 | Input/Aksi | Hasil yang Diharapkan | Hasil Aktual | Status |
 |---|---|---|---|
-| Mengakses NIM `A001` | Menampilkan data Ayu | Data Ayu ditampilkan | Berhasil |
-| Mengakses NIM `A002` | Menampilkan data Budi | Data Budi ditampilkan | Berhasil |
+| Mengakses NIM `A001` | Menampilkan data Juhoon | Data Juhoon ditampilkan | Berhasil |
+| Mengakses NIM `A002` | Menampilkan data Seonghyeon | Data Seonghyeon ditampilkan | Berhasil |
 | Mencari NIM `A003` | Menampilkan pesan data tidak ditemukan | Data tidak ditemukan | Berhasil |
 | Mengakses key yang tidak tersedia menggunakan `get()` | Menghasilkan nilai default | Nilai default ditampilkan | Berhasil |
 
